@@ -1,1 +1,8 @@
 Hello, I'm Elvin.
+
+1. git init			//specific working directory
+2. git status 		//check file status
+3. git add 			//put the file to staging area.
+4. git commit -m "msg"	//commit the file to local repository, indicate msg using -m.
+5. git log			//check what commit has been made.
+6. git add. 		//add all the files in the folder.
