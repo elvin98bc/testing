@@ -6,3 +6,6 @@ Hello, I'm Elvin.
 4. git commit -m "msg"	//commit the file to local repository, indicate msg using -m.
 5. git log			//check what commit has been made.
 6. git add. 		//add all the files in the folder.
+7. git checkout		//reverse to previous save point.
+8. git diff file.txt	//to check what's has been modified, compared with previous save point.
+
